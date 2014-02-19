@@ -25,7 +25,7 @@ public final class R {
         public static final int rehabws=0x7f020001;
     }
     public static final class id {
-        public static final int HS_welcome=0x7f080000;
+        public static final int TextView01=0x7f080000;
         public static final int action_settings=0x7f080006;
         public static final int imageView1=0x7f080002;
         public static final int login_button=0x7f080005;

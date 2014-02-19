@@ -9,9 +9,10 @@
     tools:context=".HomeScreenActivity" >
 
     <TextView
-        android:id="@+id/HS_welcome"
+        android:id="@+id/TextView01"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:text="@string/homescreentitle"
         android:textSize="24sp" />
