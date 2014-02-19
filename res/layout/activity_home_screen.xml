@@ -12,9 +12,8 @@
         android:id="@+id/HS_welcome"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:text="@string/welcome_message"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:textSize="20sp" />
+        android:layout_centerHorizontal="true"
+        android:text="@string/homescreentitle"
+        android:textSize="24sp" />
 
 </RelativeLayout>
